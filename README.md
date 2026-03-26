@@ -1,6 +1,6 @@
 # Hi, I'm Kiarie 👋
 
-💻 Software Developer | 🚀 Building Real-World Projects | 📈 Focused on Growth & Income
+💻 Software Developer | 🚀 Building Real-World Projects | 📈 Focused on Growth 
 
 ---
 
