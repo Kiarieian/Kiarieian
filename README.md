@@ -21,7 +21,7 @@
 * Python
 * C++
 * Java
-* JavaScript (Basic)
+* JavaScript 
 
 **Libraries & Tools**
 
@@ -30,6 +30,8 @@
 * matplotlib, seaborn
 * Tkinter
 * Git & GitHub
+* Postgres
+  
 
 ---
 
