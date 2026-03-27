@@ -9,7 +9,6 @@
 * 🎓 Computer Science student
 * 💡 Interested in **Backend Development, Networking, Data Science & Automation**
 * 📊 Currently learning **Machine Learning & Financial Systems**
-* 💰 Focused on building projects that can generate income
 * 🌍 Based in Kenya
 
 ---
@@ -21,7 +20,9 @@
 * Python
 * C++
 * Java
-* JavaScript 
+* JavaScript
+* SQL
+* PHP
 
 **Libraries & Tools**
 
